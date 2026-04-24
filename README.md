@@ -54,6 +54,9 @@ Total Loss = CrossEntropyLoss + λ × Σ(gates)
 | 5e-3   | ~38%          | ~80%     |
 
 ---
+## Output Visualization
+
+![Gate Distribution](results/gate_distributions.png)
 
 ## Output
 
