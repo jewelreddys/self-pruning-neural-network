@@ -1,0 +1,11 @@
+Lambda: 1e-3
+Final Accuracy: 45.2%
+Sparsity: 52.3%
+
+Lambda: 1e-4
+Accuracy: ~48%
+Sparsity: ~20%
+
+Lambda: 5e-3
+Accuracy: ~38%
+Sparsity: ~80%
